@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Order & Drop-Pin Link Builder",
+  "description": "Pre-formatted WhatsApp message and GPS drop-pin link generator for e-commerce dispatchers with real-time chat preview and local order storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
