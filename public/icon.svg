@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#0c7752"/>
+  <rect x="36" y="36" width="440" height="440" rx="92" fill="#0c8c5e"/>
+  <path d="M256 108c-81.7 0-148 66.3-148 148 0 26.1 6.8 50.7 18.8 72L108 404l78.4-20.5c20.4 11.1 43.8 17.4 69.6 17.4 81.7 0 148-66.3 148-148S337.7 108 256 108z" fill="#ffffff" fill-opacity="0.14"/>
+  <text x="256" y="305" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="168" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-6">PS</text>
+</svg>
